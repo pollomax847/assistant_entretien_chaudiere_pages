@@ -1,0 +1,9 @@
+repo_url: https://pollomax847.github.io/assistant_entretien_chaudiere_pages/fdroid-complete/fdroid/repo
+repo_name: TechniChauff Private F-Droid (complete)
+archive_older: 3
+archive_url: https://pollomax847.github.io/assistant_entretien_chaudiere_pages/fdroid-complete/fdroid/repo/archive
+keystore: fdroid.jks
+keystorepass: IwaNmRWCN8vhioljCv9JdOrH
+keypass: IwaNmRWCN8vhioljCv9JdOrH
+repo_keyalias: upload
+make_current_version_link: true
